@@ -26,11 +26,11 @@ The details below are accurate as of **22th May 2022**.
 |             Details            | Amount (EUR) |
 |:------------------------------:|:------------:|
 | Mastodon.Coffee hosting(CX21): | €5.93       |
-| Media storage (Min 3month): | €7.00       |
+| Media storage (Min 3month): | ~€1.00       |
 | MailGun SMTP: | €0.00       |
-| **Current monthly operating costs:** | **€12.93**      |
+| **Current monthly operating costs:** | **€6.93**      |
 | **Current PayPal funding:**       | **€50.00** |
-| **Total months funded:**           | **3.87**   |
+| **Total months funded:**           | **7.22**   |
 
 ## Other projects we host
 
