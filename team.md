@@ -1,6 +1,6 @@
 ---
-title: mstdn.social - The Team
-description: A list of the mstdn.social team members and their roles.
+title: Mastodon.Coffee - The Team
+description: A list of the Mastodon.Coffee team members and their roles.
 permalink: /team/
 layout: default
 ---

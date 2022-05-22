@@ -1,14 +1,14 @@
 ---
-title: mstdn.social - Code of Conduct
+title: Mastodon.Coffee - Code of Conduct
 description: Guidelines on how we expect our members to behave.
 permalink: /coc/
 layout: default
 ---
 # Code of Conduct
 
-This document lays out the ground rules for participating in the mstdn.social community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the [mstdn.social team](/team) may amend this CoC to better meet these goals in the future.
+This document lays out the ground rules for participating in the Mastodon.Coffee community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the [Mastodon.Coffee team](/team) may amend this CoC to better meet these goals in the future.
 
-The following guidelines are not a legal document, and final interpretation is up to the administration of mstdn.social; they are here to provide you with an insight into our content moderation policies:
+The following guidelines are not a legal document, and final interpretation is up to the administration of Mastodon.Coffee; they are here to provide you with an insight into our content moderation policies:
 
 1.  The following types of content will be removed from the public timeline:
     1.  Excessive advertising
@@ -41,10 +41,10 @@ These provisions notwithstanding, the administration of the service reserves the
 
 ## Non-Goals
 
-While it's important to know what mstdn.social is, it's just as important to understand what we're not. mstdn.social is **not**:
+While it's important to know what Mastodon.Coffee is, it's just as important to understand what we're not. Mastodon.Coffee is **not**:
 
-* A free speech zone. mstdn.social is a community with specific — and high — standards of behaviour. If you would like to exercise your full free speech rights, you can do so **somewhere else**; while on mstdn.social, you should agree to follow the community rules set out in this CoC.
-* An advocacy space. There are many important, controversial and political issues; and advocating for what you believe is important. However, mstdn.social is not the place for that advocacy. Even correct views can violate our CoC.
+* A free speech zone. Mastodon.Coffee is a community with specific — and high — standards of behaviour. If you would like to exercise your full free speech rights, you can do so **somewhere else**; while on Mastodon.Coffee, you should agree to follow the community rules set out in this CoC.
+* An advocacy space. There are many important, controversial and political issues; and advocating for what you believe is important. However, Mastodon.Coffee is not the place for that advocacy. Even correct views can violate our CoC.
 
 ## Reporting Violations
 
@@ -52,7 +52,7 @@ If you notice a toot that violates this code of conduct, *please* report it. It 
 
 ## Catch-all
 
-The moderation team will always take a pragmatic approach to every report they receive - if they feel that a problematic Toot isn't explicitly called out in this CoC, yet is inappropriate for mstdn.social, the Toot will likely be removed and the member will be dealt with appropriately.
+The moderation team will always take a pragmatic approach to every report they receive - if they feel that a problematic Toot isn't explicitly called out in this CoC, yet is inappropriate for Mastodon.Coffee, the Toot will likely be removed and the member will be dealt with appropriately.
 
 ## Cross-posting
 

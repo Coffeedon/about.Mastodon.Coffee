@@ -4,10 +4,10 @@ plugins:
 
 # SEO Stuff
 author: stux
-description: mstdn.social Hub is an informational site tied to mstdn.social social media network. 
+description: This is an informational site tied to Mastodon.Coffee social media network.
 lang: en
 locale: en_GB
-url: "https://hub.mstdn.social"
+url: "https://about.mastodon.coffee"
 baseurl: ""
 permalink: :title
 
