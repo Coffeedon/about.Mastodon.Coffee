@@ -1,23 +1,35 @@
 - name: stux
   role: Admin
   avatar: /assets/images/avatars/stux.png
-  link: https://mstdn.social/@stux
-  description: stux is the founder of mstdn.social
+  link: https://mastodon.coffee/@stux
+  description: stux is the founder of mastodon.coffee
 
-- name: calculsoberic
+- name: catswhocode
   role: Moderator / Co-admin
   avatar: /assets/images/avatars/calculsoberic.jpg
-  link: https://mstdn.social/@calculsoberic
-  description: calculsoberic is co-admin and moderator on mstdn.social
+  link: https://mastodon.coffee/@catswhocode
+  description: catswhocode is co-admin and moderator on mastodon.coffee
 
-- name: caranmegil
+- name: ogstu
   role: Moderator / Co-admin
-  avatar: /assets/images/avatars/caranmegil.jpeg
-  link: https://mstdn.social/@caranmegil
-  description: caranmegil is co-admin and moderator on mstdn.social
+  avatar: /assets/images/avatars/ogstu.png
+  link: https://mastodon.coffee/@ogstu
+  description: ogstu is co-admin and moderator on mastodon.coffee
 
-- name: ernie
-  role: Moderator
-  avatar: /assets/images/avatars/ernie.jpg
-  link: https://mstdn.social/@ernie
-  description: ernie is moderator on mstdn.social
+- name: GivMeCoffee
+  role: Moderator / Co-admin
+  avatar: /assets/images/avatars/GivMeCoffee.png
+  link: https://mastodon.coffee/@GivMeCoffee
+  description: GivMeCoffee is co-admin on mastodon.coffee
+
+- name: nanda
+  role: Moderator / Co-admin
+  avatar: /assets/images/avatars/nanda.png
+  link: https://mastodon.coffee/@nanda
+  description: nanda is co-admin on mastodon.coffee
+
+- name: freeplay
+  role: Moderator / Co-admin
+  avatar: /assets/images/avatars/freeplay.png
+  link: https://mastodon.coffee/@freeplay
+  description: freeplay is co-admin on mastodon.coffee

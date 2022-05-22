@@ -21,16 +21,16 @@ When you make a donation, either by [Patreon](https://patreon.com/Mstdn) or [Pay
 
 ## Current funding Mastodon.Coffee
 
-The details below are accurate as of **16th May 2022**.
+The details below are accurate as of **22th May 2022**.
 
 |             Details            | Amount (EUR) |
 |:------------------------------:|:------------:|
-| Mstdn hosting(CCX52): | €326.48       |
-| Media storage(2.6TB)(Min 3month): | €54.00       |
-| MailGun SMTP(~25-45K): | €20.00       |
-| **Current monthly operating costs:** | **€400.48**      |
-| **Current PayPal funding:**       | **€435.61** |
-| **Total months funded:**           | **1.09**   |
+| Mastodon.Coffee hosting(CX21): | €5.93       |
+| Media storage (Min 3month): | €7.00       |
+| MailGun SMTP: | €0.00       |
+| **Current monthly operating costs:** | **€12.93**      |
+| **Current PayPal funding:**       | **€50.00** |
+| **Total months funded:**           | **3.87**   |
 
 ## Other projects we host
 
@@ -47,7 +47,7 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 -   [AllTube](https://ytd.mstdn.social/) - Download videos from everywhere
 -   [Lstu](https://lstu.mstdn.social/) - Privacy-friendly URL shortner
 -   [RSS Bridge](https://rss.mstdn.social/) - Generate RSS feed from anything
--   [Mastodon.Coffee](https://mastodon.coffee/) - Alternate Mastodon Platform
+-   [mstdn.social](https://mstdn.social/) - Main Mastodon server
 
 ### Alternate FE
 
@@ -59,17 +59,17 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 
 ## Current costs other services
 
-The details below are accurate as of **16th May 2022**.
+The details below are accurate as of **22th May 2022**.
 
 |             Details            | Amount (EUR) |
 |:------------------------------:|:------------:|
 | Pixey.org(CX41): | €19.24       |
 | Misskey.ai(CX41): | €19.24       |
 | Matrix + Element(CX41): | €19.24       |
-| Mastodon.Coffee(CX21): | €5.93       |
+| mstdn.social(CX21): | €400.48       |
 | AlterFE's(CPX41): | €27.71       |
 | Pixey Storage(500GB): | €24.20       |
 | Misskey Storage(500GB): | €24.20       |
 | PeerTube | ~€25.00      |
 | CatDownload.com(CPX31)       | €15.00 |
-| **Totals extra services:**           | **€179.67**   |
+| **Totals extra services:**           | **€574.22**   |
